@@ -51,11 +51,12 @@ A side project to get acquainted with Godot. Developed a blackjack game where th
 ### [Chess Board (chessBoard)](https://github.com/robalobalubob/chessBoard)
 Collaboratively built a chessboard application using Win32 and Direct2D.
 
-### [Data Visualization Project](https://observablehq.com/d/d2a25edb7b197a1c)
+### [Data Visualization Project](https://robalobalubob.github.io/data-vis-final/)
 For my CSCI 627 Data Visualization course, I developed a visualization using:
 - **JavaScript**
 - **D3.js**
-- **Leaflet**  
+- **Leaflet**
+- **Observable Notebooks**
 The project analyzes Illinois hospital report card data to answer questions regarding:
 - The impact of location on median procedure costs.
 - The variation of median costs with patient volume.
