@@ -27,6 +27,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science at NIU. Previous
 
 **Frameworks & Tools:**
 - **React & Node.js:** Built a fullstack web application.
+- **Next.js:** Built a game scheduling assistant.
 - **MySQL:** Managed database operations.
 - **Docker:** Containerization for development environments.
 - **OpenGL ES:** Developed Android apps with graphical features.
