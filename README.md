@@ -38,12 +38,13 @@ I'm currently pursuing my Bachelor's degree in Computer Science at NIU. Previous
 
 ## Projects
 ### [Game Scheduling Web App](https://github.com/robalobalubob/my-pathfinder-scheduler)
+#### [Website hosted with Vercel](https://gamescheduler3000.vercel.app/)
 A web app developed with Next.js. The intent with this app is to assist with scheduling Pathfinder sessions by having players submit their availability for the GM.
 The GM can then view all availabilities and schedule a session. Users would then receive an email with a calendar link. The calendar on the website's homepage is also updated with the new session.
 - **Frontend:** Next.js
 - **Database:** Supabase
+
 ### [Fullstack Web Application (csci467Project)](https://github.com/robalobalubob/csci467Project)
-#### [Website hosted with Vercel](https://gamescheduler3000.vercel.app/)
 A complete fullstack web application built with:
 - **Frontend:** React
 - **Backend:** Node.js
