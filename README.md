@@ -43,6 +43,7 @@ The GM can then view all availabilities and schedule a session. Users would then
 - **Frontend:** Next.js
 - **Database:** Supabase
 ### [Fullstack Web Application (csci467Project)](https://github.com/robalobalubob/csci467Project)
+#### [Website hosted with Vercel](https://gamescheduler3000.vercel.app/)
 A complete fullstack web application built with:
 - **Frontend:** React
 - **Backend:** Node.js
