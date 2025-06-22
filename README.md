@@ -6,7 +6,7 @@ Emerging researcher with a focus on computer graphics and computer vision, combi
 
 ## About Me
 
-I am deeply dedicated to solving problems and believe that every challenge represents an invaluable opportunity to learn. Throughout my academic and professional experiences, I have been recognized for my perseverance, attention to detail, and commitment to delivering high-quality results—qualities noted by my mentors and managers. My approach is to understand and recreate complex systems from first principles, rather than simply relying on the latest frameworks or toolkits.
+I am deeply dedicated to solving problems and believe that every challenge represents an invaluable opportunity to learn. Throughout my academic and professional experiences, I have been recognized for my perseverance, attention to detail, and commitment to delivering high-quality results, qualities noted by my mentors and managers. My approach is to understand and recreate complex systems from first principles, rather than simply relying on the latest frameworks or toolkits.
 
 My passion for visual computing was ignited when I implemented the marching cubes algorithm from scratch. Navigating the intricacies of the graphics pipeline and overcoming its technical challenges was both enlightening and formative, affirming my desire to pursue advanced study and research in the field.
 
