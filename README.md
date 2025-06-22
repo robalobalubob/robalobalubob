@@ -17,7 +17,7 @@ My passion for visual computing was ignited when I implemented the marching cube
 - Actively exploring and evaluating graduate programs in visual computing, with a focus on computer graphics and computer vision.
 - Advancing my mastery of the Vulkan API and strengthening my understanding of low-level graphics programming.
 - Developing projects in computer vision, including hands-on work with OpenCV and ongoing experimentation in pose recognition.
-- Building a portfolio that demonstrates both technical depth and creativity in graphics and vision. [portfolio](https://robalobalubob.github.io/portfolio/).
+- Building a [portfolio](https://robalobalubob.github.io/portfolio/) that demonstrates both technical depth and creativity in graphics and vision.
 
 ---
 
