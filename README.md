@@ -1,44 +1,55 @@
 # Hi there, I'm Robby Williams
 
-I'm a recent graduate with a Bachelor's degree in Computer Science from NIU, passionate about graphics programming, visual computing, and video games. My academic journey concluded with a GPA of 3.64, and I'm actively preparing to continue my education by applying to PhD programs focusing on visual computing and computer vision.
+Emerging researcher with a focus on computer graphics and computer vision, combining academic rigor with hands-on expertise in 3D rendering, visual computing, and interactive systems. Passionate about building novel graphics solutions and exploring the intersection of visual technology and real-world applications. Actively preparing for Ph.D. studies in computer graphics or vision, with a strong secondary interest in game development.
 
 ---
 
 ## About Me
 
-I recently graduated from Northern Illinois University (NIU) with a degree in Computer Science, previously attending the University of Illinois at Urbana-Champaign for Nuclear/Plasma Engineering and a minor in Computer Science. At NIU, I specialized in computer graphics, rendering, and modeling, building foundational expertise in advanced visual computing techniques.
+I am deeply dedicated to solving problems and believe that every challenge represents an invaluable opportunity to learn. Throughout my academic and professional experiences, I have been recognized for my perseverance, attention to detail, and commitment to delivering high-quality results—qualities noted by my mentors and managers. My approach is to understand and recreate complex systems from first principles, rather than simply relying on the latest frameworks or toolkits.
 
-My ultimate goal is to deepen my knowledge and research capabilities in graphics programming, particularly with APIs like Vulkan or DirectX, and to contribute meaningfully to visual computing research and the video game industry.
+My passion for visual computing was ignited when I implemented the marching cubes algorithm from scratch. Navigating the intricacies of the graphics pipeline and overcoming its technical challenges was both enlightening and formative, affirming my desire to pursue advanced study and research in the field.
 
 ---
 
 ## Current Focus
 
-- **Education & Research:** Preparing for PhD applications in visual computing, focusing on areas such as rendering engines, fractal terrain generation, Catmull-Clark subdivision, superquadric shapes, Bezier curves, NURBS, particle systems, and computer vision.
-- **Portfolio Development:** Showcasing my projects involving advanced graphics and visual techniques through an interactive [portfolio](https://robalobalubob.github.io/portfolio/).
+- Actively exploring and evaluating graduate programs in visual computing, with a focus on computer graphics and computer vision.
+- Advancing my mastery of the Vulkan API and strengthening my understanding of low-level graphics programming.
+- Developing projects in computer vision, including hands-on work with OpenCV and ongoing experimentation in pose recognition.
+- Building a portfolio that demonstrates both technical depth and creativity in graphics and vision. [portfolio](https://robalobalubob.github.io/portfolio/).
 
 ---
 
 ## Skills & Technologies
 
 **Languages:**
-- **Java:** Android app development.
-- **C/C++:** Graphics and rendering projects.
-- **Python:** Scripting, automation, data visualization.
-- **JavaScript & SQL:** Full-stack web application development.
+- C, C++ (graphics, rendering, systems programming)
+- Java (Android development)
+- Python (scripting, computer vision, data analysis)
+- JavaScript (interactive web applications)
+- SQL (database design and queries)
+
+**Graphics & Visual Computing:**
+- Vulkan (low-level graphics programming, ongoing mastery)
+- OpenGL ES (mobile and embedded graphics, PBR shaders)
+- Three.js (web-based 3D visualization)
+- OpenCV (object detection, computer vision projects)
 
 **Frameworks & Tools:**
-- **React & Node.js:** Full-stack web applications.
-- **Next.js:** Web application development.
-- **MySQL:** Database management.
-- **Docker:** Development containerization.
-- **OpenGL ES:** Android graphical application development, including experience with PBR shaders.
-- **Bluetooth & BLE:** Wireless communication integration.
-- **Godot (GDScript):** Game development.
-- **Win32 and Direct2D:** GUI application development.
-- **Vulkan:** Hands-on graphics programming experience.
-- **Three.js:** Web-based interactive 3D visualizations.
-- **OpenCV:** Object detection, tracking, and 3D reconstruction.
+- React, Next.js (web application development)
+- Node.js (backend development)
+- MySQL, Supabase (database and backend services)
+- Docker (development containerization)
+- Bluetooth & BLE (wireless device integration)
+- Godot & GDScript (game development)
+- Win32, Direct2D (desktop GUI applications)
+
+**Other Skills:**
+- 3D model processing and visualization
+- Shader programming (physically based rendering)
+- Full-stack application architecture
+- Collaborative software development and technical communication
 
 ---
 
@@ -80,13 +91,15 @@ Graphical chessboard application built collaboratively using Win32 and Direct2D.
 
 ### Wahl Clipper Corporation - R&D Software Engineering Intern
 - **Android Application Development:**
-  - Bluetooth integration for high-speed data acquisition
-  - Real-time data analysis and visualization
-  - Data storage and export
-  - Reactive 3D model viewer using OpenGL ES and PBR shading techniques
-- **Object Detection and Tracking:** Indepedently developed Python scripts utilizing OpenCV to perform object detection and tracking, providing automated validation of previously acquired data.
-- **Gesture Recognition with IMU Data:** Collaborated with team members to acquire and analyze data from a 6-axis IMU sensor. Involved in devoloping and implementing gesture recognition techniques to interpret sensor data effectively.
-
+Solely designed and developed an internal Android application to accompany new hardware. The initial implementation used traditional Bluetooth, but I successfully migrated the communication layer to BLE after the hardware specification changed. This migration required rapid, in-depth learning of Bluetooth Low Energy protocol and its integration within Android.
+  - Built the entire application architecture from the ground up, with no legacy codebase.
+  - Developed robust Bluetooth/BLE data acquisition features for high-speed communication with custom hardware.
+  - Engineered a reactive 3D model viewer using OpenGL ES, with a strong focus on physically based rendering (PBR) shaders. Invested significant effort into shader development to achieve high-quality, visually appealing 3D model rendering.
+- **Object Detection and Tracking (Python, OpenCV, YOLO):**
+Independently designed a pipeline for automated object detection and tracking, focusing on hair clippers as the primary object of interest.
+  - Leveraged the YOLO detection model, currently training on thousands of annotated images of hair clippers to improve detection accuracy for real-world use cases.
+  - Developed a custom tracking solution utilizing a modified Hungarian algorithm combined with a Kalman filter for robust object tracking across video frames.
+  - Performed initial validation through video review; the resulting data will play a critical role in determining the suitability of future automated testing frameworks.
 ---
 
 ## Contact & Social Links
