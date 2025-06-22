@@ -38,6 +38,7 @@ My ultimate goal is to deepen my knowledge and research capabilities in graphics
 - **Win32 and Direct2D:** GUI application development.
 - **Vulkan:** Hands-on graphics programming experience.
 - **Three.js:** Web-based interactive 3D visualizations.
+- **OpenCV:** Object detection, tracking, and 3D reconstruction.
 
 ---
 
@@ -78,11 +79,13 @@ Graphical chessboard application built collaboratively using Win32 and Direct2D.
 ## Professional Experience
 
 ### Wahl Clipper Corporation - R&D Software Engineering Intern
-- Continuing development of an internal Android application featuring:
+- **Android Application Development:**
   - Bluetooth integration for high-speed data acquisition
   - Real-time data analysis and visualization
   - Data storage and export
   - Reactive 3D model viewer using OpenGL ES and PBR shading techniques
+- **Object Detection and Tracking:** Indepedently developed Python scripts utilizing OpenCV to perform object detection and tracking, providing automated validation of previously acquired data.
+- **Gesture Recognition with IMU Data:** Collaborated with team members to acquire and analyze data from a 6-axis IMU sensor. Involved in devoloping and implementing gesture recognition techniques to interpret sensor data effectively.
 
 ---
 
