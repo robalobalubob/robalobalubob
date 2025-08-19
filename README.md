@@ -47,7 +47,7 @@ My passion for visual computing was ignited when I implemented the marching cube
 
 **Other Skills:**
 - 3D model processing and visualization
-- Shader programming (physically based rendering)
+- Shader programming (PBR, Blinn-Phong)
 - Full-stack application architecture
 - Collaborative software development and technical communication
 
@@ -60,11 +60,6 @@ An interactive showcase of my work in visual computing, including fractal terrai
 - **Languages:** C++, JavaScript
 - **Framework:** Three.js, OpenGL ES
 
-### [Game Scheduling Web App](https://github.com/robalobalubob/my-pathfinder-scheduler)
-A web app developed with Next.js to assist scheduling Pathfinder game sessions.
-- **Frontend:** Next.js
-- **Database:** Supabase
-
 ### [Fullstack Web Application (csci467Project)](https://github.com/robalobalubob/csci467Project)
 A fullstack web app for managing quotes and orders.
 - **Frontend:** React
@@ -76,14 +71,15 @@ Personal project following Khronos Vulkan Tutorial to learn Vulkan graphics API 
 - **Language:** C++
 - **Graphics API:** Vulkan
 
+### [Custom Rendering Engine](https://github.com/robalobalubob/vulkanRenderer)
+Attempt to replace Three.js as the renderer in my portfolio. In progress
+- **Language:** C++
+
 ### [Data Visualization Project](https://robalobalubob.github.io/data-vis-final/)
 Visualization of Illinois hospital data using JavaScript, D3.js, Leaflet, and Observable Notebooks.
 
 ### [Blackjack Game in Godot (blackjackGodot)](https://github.com/robalobalubob/blackjackGodot)
 A simple blackjack game developed to explore Godot.
-
-### [Chess Board (chessBoard)](https://github.com/robalobalubob/chessBoard)
-Graphical chessboard application built collaboratively using Win32 and Direct2D.
 
 ---
 
