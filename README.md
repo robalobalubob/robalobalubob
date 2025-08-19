@@ -1,17 +1,5 @@
 # Hi there, I'm Robby Williams
 
-Emerging researcher with a focus on computer graphics and computer vision, combining academic rigor with hands-on expertise in 3D rendering, visual computing, and interactive systems. Passionate about building novel graphics solutions and exploring the intersection of visual technology and real-world applications. Actively preparing for Ph.D. studies in computer graphics or vision, with a strong secondary interest in game development.
-
----
-
-## About Me
-
-I am deeply dedicated to solving problems and believe that every challenge represents an invaluable opportunity to learn. Throughout my academic and professional experiences, I have been recognized for my perseverance, attention to detail, and commitment to delivering high-quality results, qualities noted by my mentors and managers. My approach is to understand and recreate complex systems from first principles, rather than simply relying on the latest frameworks or toolkits.
-
-My passion for visual computing was ignited when I implemented the marching cubes algorithm from scratch. Navigating the intricacies of the graphics pipeline and overcoming its technical challenges was both enlightening and formative, affirming my desire to pursue advanced study and research in the field.
-
----
-
 ## Current Focus
 
 - Actively exploring and evaluating graduate programs in visual computing, with a focus on computer graphics and computer vision.
