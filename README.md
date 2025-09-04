@@ -48,23 +48,20 @@ An interactive showcase of my work in visual computing, including fractal terrai
 - **Languages:** C++, JavaScript
 - **Framework:** Three.js, OpenGL ES
 
+### [Custom Rendering Engine](https://github.com/robalobalubob/vulkanRenderer)
+Attempt to replace Three.js as the renderer in my portfolio. In progress
+- **Language:** C++
+- **Graphics API:** Vulkan
+
+### [Data Visualization Project](https://robalobalubob.github.io/data-vis-final/)
+Visualization of Illinois hospital data using JavaScript, D3.js, Leaflet, and Observable Notebooks.
+
 ### [Fullstack Web Application (csci467Project)](https://github.com/robalobalubob/csci467Project)
 A fullstack web app for managing quotes and orders.
 - **Frontend:** React
 - **Backend:** Node.js
 - **Database:** MySQL
 
-### [Vulkan Tutorial Learning Project](https://github.com/robalobalubob/vulkan-tutorial)
-Personal project following Khronos Vulkan Tutorial to learn Vulkan graphics API fundamentals.
-- **Language:** C++
-- **Graphics API:** Vulkan
-
-### [Custom Rendering Engine](https://github.com/robalobalubob/vulkanRenderer)
-Attempt to replace Three.js as the renderer in my portfolio. In progress
-- **Language:** C++
-
-### [Data Visualization Project](https://robalobalubob.github.io/data-vis-final/)
-Visualization of Illinois hospital data using JavaScript, D3.js, Leaflet, and Observable Notebooks.
 
 ### [Blackjack Game in Godot (blackjackGodot)](https://github.com/robalobalubob/blackjackGodot)
 A simple blackjack game developed to explore Godot.
@@ -90,7 +87,3 @@ Independently designed a pipeline for automated object detection and tracking, f
 
 - **Email:** [rob.j.will7@gmail.com](mailto:rob.j.will7@gmail.com)
 - **LinkedIn:** [Robby Williams](https://www.linkedin.com/in/robby-williams-b597b21b9/)
-
----
-
-Thank you for visiting! I'm always eager to connect with fellow graphics enthusiasts and researchers.
